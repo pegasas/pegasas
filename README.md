@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pegasas.pegasas" style="max-width:100%;">
 
-  ### Pegasas Says Hi 👋
+  ### pegasas Says Hi 👋
   
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=pegasas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
