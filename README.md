@@ -13,18 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### pegasas Says Hi 👋 <img src="https://visitor-badge.laobi.icu/badge?page_id=pegasas.pegasas" style="max-width:100%;">
+# Hi there 👋
 
-<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pegasas.pegasas" style="max-width:100%;">
 
-<img height="300em" src="https://github-readme-stats.vercel.app/api?username=pegasas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-
-</div>
-
-- 🔭 I’m currently working on Microsoft Ads.
+- 🔭 I’m currently working on ads.
 - 🌱 I’m currently learning distributed system, db, computing engine, orchestration platforms, etc.
 - 👯 I’m looking to collaborate on Java, Golang, Python, Rust, C/C++.
-- 🔭 I’m currently interested in distributed system, db, computing engine, orchestration platforms, etc.
-- 💬 Ask me about anything except politics / religions.
 - 📫 How to reach me: Email me or try to figure out my WeChat number.
 - 😄 Pronouns: He
+
+![pegasasstats](https://github-readme-stats.vercel.app/api?username=pegasas&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
