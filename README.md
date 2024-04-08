@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pegasas.pegasas" style="max-width:100%;">
 
 - 🔭 I’m currently working on ads.
-- 🌱 I’m currently learning distributed system, db, computing engine, orchestration platforms, etc.
+- 🌱 I’m currently learning distributed system, db, computing engine, orchestration platforms, cloud native, etc.
 - 👯 I’m looking to collaborate on Java, Golang, Python, Rust, C/C++.
 - 📫 How to reach me: Email me or try to figure out my WeChat number.
 - 😄 Pronouns: He
