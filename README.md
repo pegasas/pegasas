@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me or try to figure out my WeChat number.
 - 😄 Pronouns: He
 
-![pegasasstats](https://github-readme-stats.vercel.app/api?username=pegasas&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![pegasasstats](https://github-readme-stats.vercel.app/api?username=pegasas&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
