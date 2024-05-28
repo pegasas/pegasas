@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ads domain.
 - 🌱 I’m currently learning distributed system, db, computing engine, orchestration platforms, cloud native, etc.
-- 👯 I’m looking to collaborate on Java, Golang, Python, Rust, C/C++.
+- 👯 I’m looking to collaborate on C/C++，Java, Golang, Python, Rust.
 - 📫 How to reach me: Email me or try to figure out my WeChat number.
 - 😄 Pronouns: He
 
