@@ -1,1 +1,3 @@
 # Python
+
+![architecture](./architecture.png)
