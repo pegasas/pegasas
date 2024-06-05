@@ -19,3 +19,7 @@ pyc的目的是重用，Python解释器认为：只有import进来的模块，�
 答：python是动态语言，并不需要编译直接通过python解释器一行一行的解释执行。Scala的交互式开发环境看上去与python的很像，但实际上两者原理是不同的。
 
 Scala的解释器本质上并不是解释器，应该叫REPL即读取-求值-打印-循环。我们输入的代码被迅速的编译成字节码然后这段字节码由Java虚拟机执行。
+
+## Python Ubuntu Installation
+
+https://blog.csdn.net/JineD/article/details/129507719
