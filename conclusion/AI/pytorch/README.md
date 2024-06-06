@@ -11,3 +11,5 @@ https://pytorch.org/get-started/locally/
 see readme for building:
 
 https://github.com/pytorch/pytorch/tree/main
+
+![layer-diagram.webp](./layer-diagram.webp)
