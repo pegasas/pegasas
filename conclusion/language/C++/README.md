@@ -98,7 +98,7 @@ $ ld -o test.out test.o inc/mymath.o ...libraries...
 2.Clang + LLVM = GCC
 3.LLVM提供了灵活的代码复用能力，将编译后端的算法封装成为了一个个独立的模块并提供对外接口，而GCC传统编译器耦合很重，很难小粒度复用代码
 
-### gcc & cmake & makefile
+### gcc & cmake & makefile & ninja
 
 https://blog.csdn.net/KP1995/article/details/109569787
 https://www.cnblogs.com/xuelisheng/p/9988626.html
@@ -125,4 +125,13 @@ cmake可以更加简单的生成makefile文件给上面那个make用。当然cma
 
 ![cmake-make-gcc.png](./cmake-make-gcc.png)
 
+Ninja
+麻烦不止
 
+到目前位置，软件工程变大的编译问题，跨平台问题暂时得到了解决，但还有一个问题尚未得到解决，那就是make执行速度慢的问题越来越严重了。
+
+于是Google的一名程序员推出了注重速度的构建工具Ninja。Ninja启动编译的速度非常快，因为他舍弃了各种高级功能，语法和用法非常简单。
+
+实际测试下，超过30000个源文件，Ninja可以在1秒钟内开始真正的构建，而使用makefile文件则需要10-20秒。
+
+![gcc-cmake-make-ninja.webp](./gcc-cmake-make-ninja.webp)
