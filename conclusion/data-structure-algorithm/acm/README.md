@@ -1,6 +1,6 @@
 # ACM 算法模板库
 
-https://next.oi-wiki.org/basic/
+[OI Wiki](https://next.oi-wiki.org)
 
 ## [算法基础](./basis/README.md)
 
