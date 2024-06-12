@@ -34,6 +34,8 @@ Spring的盈利方式包括提供全球的巡回课程演讲和相关的服务�
 
 ![spring-framework-runtime.png](./spring-framework-runtime.png)
 
+![spring-framework-5.awebp](./spring-framework-5.awebp)
+
 ### 核心容器（Core Container）
 
 核心容器提供了Spring框架的基本功能，是其它模块建立的基础，有 spring-core、spring-beans、spring-context、spring-context-support和spring-expression（Expression Language、SpEL）组成。spring-beans和spring-core是spring框架的核心模块。
