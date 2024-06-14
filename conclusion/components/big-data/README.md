@@ -36,3 +36,4 @@ Hadoop生态圈
 
 11)ZooKeeper：用于分布式应用的高性能协调服务。
 
+https://cloud.tencent.com/developer/article/2082414
