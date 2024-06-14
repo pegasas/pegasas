@@ -24,3 +24,5 @@ https://github.com/LuckyWinty/blog/blob/master/markdown/Q%26A/%E7%8E%B0%E4%BB%A3
 特别服务层，这里主要指的是一些浏览器自带的服务，比如你填完某个网站的账号密码，浏览器可以帮你记住账号密码，又比如开启浏览器的暗黑模式等特殊的服务。
 
 以上，对前端来说，比较重要的是渲染引擎(一些文章也叫浏览器引擎)。我们可以看看都有哪些渲染引擎的内核。
+
+https://cloud.tencent.com/developer/article/1583069
