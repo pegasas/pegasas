@@ -1,31 +1,82 @@
-#include <iomanip>
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
-int n;
-bool vis[50];  // 访问标记数组
-int a[50];     // 排列数组，按顺序储存当前搜索结果
 
-void dfs(int step) {
-    if (step == n + 1) {  // 边界
-        for (int i = 1; i <= n; i++) {
-            cout << setw(5) << a[i];  // 保留5个场宽
-        }
-        cout << endl;
-        return;
+const int M = 100010;
+
+class Solution {
+public:
+    int maxTotalReward(vector<int>& rewardValues) {
+        sort(rewardValues.begin(), rewardValues.end());
+
+        rewardValues.resize(
+                unique(rewardValues.begin(), rewardValues.end())
+                - rewardValues.begin()
+        );
+
+        bitset<M> f;
+        f.set(0);
+
+        for (int x : rewardValues)
+            f |= f << (M - x) >> (M - 2 * x);
+
+        for (int i = 2 * rewardValues.back() - 1; i >= 0; i--)
+            if (f[i])
+                return i;
+
+        return 0;
     }
-    for (int i = 1; i <= n; i++) {
-        if (vis[i] == 0) {  // 判断数字i是否在正在进行的全排列中
-            vis[i] = 1;
-            a[step] = i;
-            dfs(step + 1);
-            vis[i] = 0;  // 这一步不使用该数 置0后允许下一步使用
-        }
-    }
-    return;
-}
+};
+
+
+//class Solution {
+//public List<Integer> findMinHeightTrees(int n, int[][] edges) {
+//        List<Integer> res = new ArrayList<>();
+//        // corner case
+//        if (n == 1) {
+//            res.add(0);
+//            return res;
+//        }
+//
+//        // normal case
+//        int[] degree = new int[n];
+//        HashMap<Integer, List<Integer>> g = new HashMap<>();
+//        for (int i = 0; i < n; i++) {
+//            g.put(i, new ArrayList<>());
+//        }
+//        for (int[] e : edges) {
+//            g.get(e[0]).add(e[1]);
+//            g.get(e[1]).add(e[0]);
+//            degree[e[0]]++;
+//            degree[e[1]]++;
+//        }
+//
+//        Queue<Integer> queue = new LinkedList<>();
+//        for (int i = 0; i < n; i++) {
+//            if (degree[i] == 1) {
+//                queue.offer(i);
+//            }
+//        }
+//        while (!queue.isEmpty()) {
+//            List<Integer> list = new ArrayList<>();
+//            int size = queue.size();
+//            for (int i = 0; i < size; i++) {
+//                int cur = queue.poll();
+//                list.add(cur);
+//                for (int nei : g.get(cur)) {
+//                    degree[nei]--;
+//                    if (degree[nei] == 1) {
+//                        queue.offer(nei);
+//                    }
+//                }
+//            }
+//            res = list;
+//        }
+//        return res;
+//    }
+//}
+
+
 
 int main() {
-    cin >> n;
-    dfs(1);
     return 0;
 }

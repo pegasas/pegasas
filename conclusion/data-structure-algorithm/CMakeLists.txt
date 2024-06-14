@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(data_structure_algorithm)
+project(test)
 
-set(CMAKE_CXX_STANDARD 98)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(data_structure_algorithm main.cpp)
+add_executable(test main.cpp)
