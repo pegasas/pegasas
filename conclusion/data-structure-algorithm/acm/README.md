@@ -8,7 +8,7 @@
 
 ## [动态规划](./dp/README.md)
 
-## [字符串](./dp/README.md)
+## [字符串](./string/README.md)
 
 ## [数学](./dp/README.md)
 
