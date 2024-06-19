@@ -10,11 +10,11 @@
 
 ## [字符串](./string/README.md)
 
-## [数学](./dp/README.md)
+## [数学](./math/README.md)
 
-## [数据结构](./dp/README.md)
+## [数据结构](./data-structure/README.md)
 
-## [图论](./dp/README.md)
+## [图论](./graph/README.md)
 
-## [计算几何](./dp/README.md)
+## [计算几何](./geometry/README.md)
 
