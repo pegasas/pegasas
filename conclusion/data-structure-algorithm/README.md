@@ -1,3 +1,0 @@
-# ACM
-
-# LeetCode
