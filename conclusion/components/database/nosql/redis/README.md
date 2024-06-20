@@ -8,11 +8,9 @@
 
 ## Redis架构
 
-![redis-architecture.png](./redis-architecture.png)
-
 Redis 组件的系统架构如图所示，主要包括事件处理、数据存储及管理、用于系统扩展的主从复制/集群管理，以及为插件化功能扩展的 Module System 模块。
 
-img
+![redis-architecture.png](./redis-architecture.png)
 
 Redis 中的事件处理模块，采用的是作者自己开发的 ae 事件驱动模型，可以进行高效的网络 IO 读写、命令执行，以及时间事件处理。
 
