@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pegasas.pegasas" style="max-width:100%;">
 
-- 🔭 I’m currently working on LLM/Agent/Recommendation domain.
+- 🔭 I’m currently working on LLM/AI Infra/Agentic AI/Physical AI.
 - 🌱 I’m currently learning LLM, AI Infra, distributed system, db, cloud native, etc.
 - 👯 I’m looking to collaborate on C/C++, Java, Golang, Python, Rust.
 - 📫 How to reach me: Email me or try to figure out my WeChat number.
