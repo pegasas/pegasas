@@ -34,34 +34,15 @@ Here are some ideas to get you started:
 
 ### 📚 Knowledge Base
 
-按知识域组织的技术笔记，完整内容在 **[pegasas.github.io](https://pegasas.github.io/#notes)**。
+A structured, continuously updated set of engineering notes. Read them on **[pegasas.github.io](https://pegasas.github.io/#notes)**.
 
-<table>
-  <tr><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🧮<br><b>算法与数学</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">⚙️<br><b>C/C++</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">☕<br><b>Java/JVM</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🐹<br><b>Go</b></a></td></tr>
-  <tr><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🐍<br><b>Python</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🦀<br><b>Rust</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🐧<br><b>Linux</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🖥️<br><b>前端与浏览器</b></a></td></tr>
-  <tr><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🕸️<br><b>分布式系统</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🗄️<br><b>数据系统</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">☁️<br><b>云原生</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🧠<br><b>AI/ML 与模型</b></a></td></tr>
-  <tr><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🤖<br><b>Physical AI</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🚀<br><b>加速器</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🏗️<br><b>AI Infra</b></a></td><td align="center" width="25%"><a href="https://pegasas.github.io/#notes">🛠️<br><b>Agent</b></a></td></tr>
-</table>
+<a href="https://pegasas.github.io/#notes"><img src="https://pegasas.github.io/assets/images/profile/knowledge-map.svg" width="100%" alt="Knowledge map"></a>
 
-### 🧰 Tech Stack
+<a href="https://pegasas.github.io/notes/"><img src="https://pegasas.github.io/assets/images/profile/coverage.svg" width="100%" alt="Coverage by domain"></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-7bd43c?style=flat-square&labelColor=07080b" alt="C/C++">
-  <img src="https://img.shields.io/badge/Java-ff7a1f?style=flat-square&labelColor=07080b" alt="Java">
-  <img src="https://img.shields.io/badge/Go-3d9bff?style=flat-square&labelColor=07080b" alt="Go">
-  <img src="https://img.shields.io/badge/Python-9a6bff?style=flat-square&labelColor=07080b" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-7bd43c?style=flat-square&labelColor=07080b" alt="Rust">
-  <img src="https://img.shields.io/badge/Linux-ff7a1f?style=flat-square&labelColor=07080b" alt="Linux">
-  <img src="https://img.shields.io/badge/Distributed%20Systems-3d9bff?style=flat-square&labelColor=07080b" alt="Distributed Systems">
-  <img src="https://img.shields.io/badge/Cloud%20Native-9a6bff?style=flat-square&labelColor=07080b" alt="Cloud Native">
-</p>
+### 🧭 Learning Paths
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/?username=pegasas&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&bg_color=07080b&title_color=7bd43c&text_color=e9edf4&icon_color=ff7a1f&border_color=1b2230&hide_border=false"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasas&layout=compact&langs_count=8&bg_color=07080b&title_color=7bd43c&text_color=e9edf4&icon_color=ff7a1f&border_color=1b2230&hide_border=false"/>
-</div>
+<a href="https://pegasas.github.io/notes/"><img src="https://pegasas.github.io/assets/images/profile/learning-paths.svg" width="100%" alt="Learning paths by goal"></a>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pegasas.pegasas" alt="visitors">
