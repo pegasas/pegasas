@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <a href="https://pegasas.github.io"><img src="https://img.shields.io/badge/Website-pegasas.github.io-7bd43c?style=for-the-badge&labelColor=07080b" alt="Website"></a>
   <a href="https://pegasas.github.io/notes/"><img src="https://img.shields.io/badge/Notes-Knowledge%20Base-ff7a1f?style=for-the-badge&labelColor=07080b" alt="Notes"></a>
   <a href="mailto:yangqingping17s@ict.ac.cn"><img src="https://img.shields.io/badge/Email-Contact-3d9bff?style=for-the-badge&labelColor=07080b" alt="Email"></a>
-  <a href="https://scholar.google.com.hk/citations?user=g79gAJEAAAAJ&hl=zh-CN&oi=sra"><img src="https://img.shields.io/badge/Scholar-Papers-9a6bff?style=for-the-badge&labelColor=07080b" alt="Scholar"></a>
 </p>
 
 ### 👋 Hi Coders
