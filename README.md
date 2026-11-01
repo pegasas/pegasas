@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://pegasas.github.io">
-  <img src="https://pegasas.github.io/assets/images/profile-banner.svg?v=5" width="100%" alt="John Huang — Notes on systems, data &amp; AI infra">
+  <img src="https://pegasas.github.io/assets/images/profile-banner.svg?v=6" width="100%" alt="John Huang — From Systems to Algorithms to AI">
 </a>
 
 <p align="center">
