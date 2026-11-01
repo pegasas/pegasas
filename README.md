@@ -14,16 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://pegasas.github.io">
-  <img src="https://pegasas.github.io/assets/images/profile-banner.svg?v=4" width="100%" alt="John Huang — Notes on systems, data &amp; AI infra">
+  <img src="https://pegasas.github.io/assets/images/profile-banner.svg?v=5" width="100%" alt="John Huang — Notes on systems, data &amp; AI infra">
 </a>
 
 <p align="center">
   <a href="https://pegasas.github.io"><img src="https://img.shields.io/badge/Website-pegasas.github.io-7bd43c?style=for-the-badge&labelColor=07080b" alt="Website"></a>
   <a href="https://pegasas.github.io/notes/"><img src="https://img.shields.io/badge/Notes-Knowledge%20Base-ff7a1f?style=for-the-badge&labelColor=07080b" alt="Notes"></a>
-</p>
-
-<p align="center">
-  <img src="assets/images/logo-candidates.png" width="100%" alt="John Huang logo candidates: A leaf, B rounded JH, C wing, D hexagonal emblem">
 </p>
 
 ### 👋 Hi Coders
