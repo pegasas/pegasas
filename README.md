@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   <img src="https://pegasas.github.io/assets/images/profile-banner.svg?v=6" width="100%" alt="John Huang — From Systems to Algorithms to AI">
 </a>
 
+<p align="center">From <strong>Systems</strong> to <strong>Algorithms</strong> to <strong>AI</strong></p>
+
 <p align="center">
   <a href="https://pegasas.github.io"><img src="https://img.shields.io/badge/Website-pegasas.github.io-7bd43c?style=for-the-badge&labelColor=07080b" alt="Website"></a>
   <a href="https://pegasas.github.io/notes/"><img src="https://img.shields.io/badge/Notes-Knowledge%20Base-ff7a1f?style=for-the-badge&labelColor=07080b" alt="Notes"></a>
