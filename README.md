@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 
 ### 👋 Hi Coders
 
-- 🔭 I’m currently working on **LLM / AI Infra / Agentic AI / Physical AI / AI Factory**.
-- 🌱 I’m currently learning **LLM, AI Infra, distributed system, db, cloud native**, etc.
-- 👯 I’m looking to collaborate on **C/C++, Java, Golang, Python, Rust**.
-- 📫 How to reach me: Email me or try to figure out my WeChat number.
-- 😄 Pronouns: He
+- 🏆 Retired **OIer / ACMer**.
+- 🤖 **Agentic AI:** Multi-Agent · RAG · Context & Memory · Agent-to-UI · AI Coding.
+- ⚡ **AI Infra:** GPU Kernels · Distributed Training · Fine-tuning · Quantization · Inference Serving.
+- 🛠️ **Systems:** Distributed Systems · Databases · Streaming & CDC · Workflow Orchestration · Cloud Native.
+- 🔭 **Exploring:** Physical AI · AI Factory.
+- 💻 **Languages:** C/C++ · Go · Java · Python · Rust.
 
-### 📚 Knowledge Base
+### 📚 Knowledge Distribution
 
 A structured, continuously updated set of engineering notes. Read them on **[pegasas.github.io](https://pegasas.github.io/#notes)**.
 
