@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 - 🔭 **Exploring:** Physical AI · AI Factory.
 - 💻 **Languages:** C/C++ · Go · Java · Python · Rust.
 
+### 🧪 Current Research
+
+- **Attention & GPU Numerics:** Controlled architecture comparisons, mixed-precision diagnostics, and reproducible evaluation.
+- **Reliable Serving & Data Systems:** Fault-injection experiments for routing recovery, transaction outcomes, and idempotent delivery.
+
 ### 📚 Knowledge Distribution
 
 A structured, continuously updated set of engineering notes. Read them on **[pegasas.github.io](https://pegasas.github.io/#notes)**.
